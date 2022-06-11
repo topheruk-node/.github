@@ -8,7 +8,7 @@ Once you have had a look through this profile, you can head to my [main profile]
 
 |Repository Name|Description|
 |:----|:----|
-|[utilities](https://github.com/topheruk-go/util)|My standard library|
+|[util](https://github.com/topheruk-go/util)|My standard library|
 
 <!--
 
