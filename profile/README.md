@@ -9,7 +9,7 @@ Once you have had a look through this profile, you can head to my [main profile]
 |Repository Name|Description|Keywords|
 |:----|:----|:----|
 |[util](https://github.com/topheruk-go/util)|My standard library|`parsing`|
-|[webdev](https://github.com/topheruk-go/webdev)|Server-side projects|`https`, `gRPC`, `json`, `chi`|
+|[webdev](https://github.com/topheruk-go/web)|Server-side projects|`https`, `gRPC`, `json`, `chi`|
 
 <!--
 
