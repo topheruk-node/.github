@@ -8,8 +8,8 @@ Once you have had a look through this profile, you can head to my [main profile]
 
 |Repository Name|Description|Keywords|
 |:----|:----|:----|
-|[util](https://github.com/topheruk-go/util)|My standard library|`parsing`|
-|[web](https://github.com/topheruk-go/web)|Server-side projects|`https`, `gRPC`, `json`, `chi`|
+|[util](https://github.com/topheruk-go/util)|Common functions|`parsing`|
+|[book catalogue](https://github.com/topheruk-go/book-catalogue)|Book catalogue project|`rest`, `psql`, `custom encoding`|
 
 <!--
 
