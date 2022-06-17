@@ -1,1 +1,7 @@
 go 1.18
+
+use (
+	./book-catalogue
+	./foo
+	./util
+)
