@@ -21,7 +21,9 @@
                 "golang.Go",
                 "eamodio.gitlens",
                 "GitHub.vscode-pull-request-github",
-                "GitHub.copilot"
+                "GitHub.copilot",
+                "mtxr.sqltools",
+                "mtxr.sqltools-driver-pg"
             ]
         }
     },
