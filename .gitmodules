@@ -1,3 +1,6 @@
 [submodule "book-catalogue"]
-	path = book-catalogue
-	url = git@github.com:topheruk-go/book-catalogue
+path = book-catalogue
+url = git@github.com:topheruk-go/book-catalogue
+[submodule "util"]
+path = util
+url = git@github.com:topheruk-go/util
