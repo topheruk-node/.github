@@ -4,7 +4,6 @@ This [Organisation](https://docs.github.com/en/organizations/collaborating-with-
 
 Once you have had a look through this profile, you can head to my [main profile](https://github.com/topheruk) where I have details on various repositories, organisations & gists
 
-[Click  to return to main profile.](https://github.com/topheruk)
 ## Repositories
 
 |Repository Name|Description|Keywords|
