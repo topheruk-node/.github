@@ -9,7 +9,7 @@ Once you have had a look through this profile, you can head to my [main profile]
 |Repository Name|Description|Keywords|
 |:----|:----|:----|
 |[prelude](https://github.com/hyphenode/prelude)|Common functions|`utility`|
-|[drum sampler](https://github.com/hyphenode/drum-sampler)|Drum sampler project|`web audio`, `custom element`, `svelte`|
+|[drum sampler](https://github.com/hyphenode/drum-sampler)|Drum sampler project|`web audio`, `lit-html`, `svelte`|
 |[audio](https://github.com/hyphenode/audio)|DSP & Web Audio API related library|`web audio`, `custom element`|
 
 ### Publishing a project
